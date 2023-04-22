@@ -1,15 +1,15 @@
 {
-  "files": {
-    "main.css": "/ReactApplication/static/css/main.8ffd4e14.css",
-    "main.js": "/ReactApplication/static/js/main.72c58d1f.js",
-    "static/js/787.5480e000.chunk.js": "/ReactApplication/static/js/787.5480e000.chunk.js",
-    "index.html": "/ReactApplication/index.html",
-    "main.8ffd4e14.css.map": "/ReactApplication/static/css/main.8ffd4e14.css.map",
-    "main.72c58d1f.js.map": "/ReactApplication/static/js/main.72c58d1f.js.map",
-    "787.5480e000.chunk.js.map": "/ReactApplication/static/js/787.5480e000.chunk.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.8ffd4e14.css",
-    "static/js/main.72c58d1f.js"
-  ]
+  "main.css": "/React_Wapp_Project/static/css/main.6bc16f51.chunk.css",
+  "main.js": "/React_Wapp_Project/static/js/main.ea7ebfc0.chunk.js",
+  "main.js.map": "/React_Wapp_Project/static/js/main.ea7ebfc0.chunk.js.map",
+  "static/js/1.4587b355.chunk.js": "/React_Wapp_Project/static/js/1.4587b355.chunk.js",
+  "static/js/1.4587b355.chunk.js.map": "/React_Wapp_Project/static/js/1.4587b355.chunk.js.map",
+  "static/js/2.9891c9e8.chunk.js": "/React_Wapp_Project/static/js/2.9891c9e8.chunk.js",
+  "static/js/2.9891c9e8.chunk.js.map": "/React_Wapp_Project/static/js/2.9891c9e8.chunk.js.map",
+  "runtime~main.js": "/React_Wapp_Project/static/js/runtime~main.a83bfc94.js",
+  "runtime~main.js.map": "/React_Wapp_Project/static/js/runtime~main.a83bfc94.js.map",
+  "static/css/main.6bc16f51.chunk.css.map": "/React_Wapp_Project/static/css/main.6bc16f51.chunk.css.map",
+  "index.html": "/React_Wapp_Project/index.html",
+  "precache-manifest.9b6246707f1b6fc12ba25580c382de9c.js": "/React_Wapp_Project/precache-manifest.9b6246707f1b6fc12ba25580c382de9c.js",
+  "service-worker.js": "/React_Wapp_Project/service-worker.js"
 }
