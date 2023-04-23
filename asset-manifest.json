@@ -1,15 +1,15 @@
 {
-  "main.css": "/React_Wapp_Project/static/css/main.6bc16f51.chunk.css",
-  "main.js": "/React_Wapp_Project/static/js/main.ea7ebfc0.chunk.js",
-  "main.js.map": "/React_Wapp_Project/static/js/main.ea7ebfc0.chunk.js.map",
-  "static/js/1.4587b355.chunk.js": "/React_Wapp_Project/static/js/1.4587b355.chunk.js",
-  "static/js/1.4587b355.chunk.js.map": "/React_Wapp_Project/static/js/1.4587b355.chunk.js.map",
-  "static/js/2.9891c9e8.chunk.js": "/React_Wapp_Project/static/js/2.9891c9e8.chunk.js",
-  "static/js/2.9891c9e8.chunk.js.map": "/React_Wapp_Project/static/js/2.9891c9e8.chunk.js.map",
-  "runtime~main.js": "/React_Wapp_Project/static/js/runtime~main.a83bfc94.js",
-  "runtime~main.js.map": "/React_Wapp_Project/static/js/runtime~main.a83bfc94.js.map",
-  "static/css/main.6bc16f51.chunk.css.map": "/React_Wapp_Project/static/css/main.6bc16f51.chunk.css.map",
-  "index.html": "/React_Wapp_Project/index.html",
-  "precache-manifest.9b6246707f1b6fc12ba25580c382de9c.js": "/React_Wapp_Project/precache-manifest.9b6246707f1b6fc12ba25580c382de9c.js",
-  "service-worker.js": "/React_Wapp_Project/service-worker.js"
+  "main.css": "/my_new_reactApp/static/css/main.6bc16f51.chunk.css",
+  "main.js": "/my_new_reactApp/static/js/main.ea7ebfc0.chunk.js",
+  "main.js.map": "/my_new_reactApp/static/js/main.ea7ebfc0.chunk.js.map",
+  "static/js/1.4587b355.chunk.js": "/my_new_reactApp/static/js/1.4587b355.chunk.js",
+  "static/js/1.4587b355.chunk.js.map": "/my_new_reactApp/static/js/1.4587b355.chunk.js.map",
+  "static/js/2.9891c9e8.chunk.js": "/my_new_reactApp/static/js/2.9891c9e8.chunk.js",
+  "static/js/2.9891c9e8.chunk.js.map": "/my_new_reactApp/static/js/2.9891c9e8.chunk.js.map",
+  "runtime~main.js": "/my_new_reactApp/static/js/runtime~main.8f0abd9b.js",
+  "runtime~main.js.map": "/my_new_reactApp/static/js/runtime~main.8f0abd9b.js.map",
+  "static/css/main.6bc16f51.chunk.css.map": "/my_new_reactApp/static/css/main.6bc16f51.chunk.css.map",
+  "index.html": "/my_new_reactApp/index.html",
+  "precache-manifest.91c118ecde73a76e7e00328ecbae16e8.js": "/my_new_reactApp/precache-manifest.91c118ecde73a76e7e00328ecbae16e8.js",
+  "service-worker.js": "/my_new_reactApp/service-worker.js"
 }
